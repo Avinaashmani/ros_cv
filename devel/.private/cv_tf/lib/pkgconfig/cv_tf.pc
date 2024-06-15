@@ -1,0 +1,8 @@
+prefix=/home/avinaash/ros_cv/devel/.private/cv_tf
+
+Name: cv_tf
+Description: Description of cv_tf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

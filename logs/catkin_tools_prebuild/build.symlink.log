@@ -1,0 +1,12 @@
+Symlinking /home/avinaash/ros_cv/devel/./env.sh
+Symlinking /home/avinaash/ros_cv/devel/./local_setup.sh
+Symlinking /home/avinaash/ros_cv/devel/./cmake.lock
+Symlinking /home/avinaash/ros_cv/devel/./local_setup.zsh
+Symlinking /home/avinaash/ros_cv/devel/./setup.sh
+Symlinking /home/avinaash/ros_cv/devel/./setup.zsh
+Symlinking /home/avinaash/ros_cv/devel/./_setup_util.py
+Symlinking /home/avinaash/ros_cv/devel/./local_setup.bash
+Symlinking /home/avinaash/ros_cv/devel/./setup.bash
+Symlinking /home/avinaash/ros_cv/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/avinaash/ros_cv/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/avinaash/ros_cv/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
