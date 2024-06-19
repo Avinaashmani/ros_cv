@@ -1,0 +1,33 @@
+[0.868s] Invoking command in '/home/avinaash/ros_cv/ros2/src/ros_vision': PYTHONPATH=/home/avinaash/ros_cv/ros2/build/ros_vision/prefix_override:/home/avinaash/ros_cv/ros2/install/ros_vision/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros_vision build --build-base /home/avinaash/ros_cv/ros2/build/ros_vision/build install --record /home/avinaash/ros_cv/ros2/build/ros_vision/install.log --single-version-externally-managed install_data
+[1.034s] running egg_info
+[1.034s] creating ../../build/ros_vision/ros_vision.egg-info
+[1.034s] writing ../../build/ros_vision/ros_vision.egg-info/PKG-INFO
+[1.034s] writing dependency_links to ../../build/ros_vision/ros_vision.egg-info/dependency_links.txt
+[1.034s] writing entry points to ../../build/ros_vision/ros_vision.egg-info/entry_points.txt
+[1.035s] writing requirements to ../../build/ros_vision/ros_vision.egg-info/requires.txt
+[1.035s] writing top-level names to ../../build/ros_vision/ros_vision.egg-info/top_level.txt
+[1.039s] writing manifest file '../../build/ros_vision/ros_vision.egg-info/SOURCES.txt'
+[1.061s] reading manifest file '../../build/ros_vision/ros_vision.egg-info/SOURCES.txt'
+[1.061s] writing manifest file '../../build/ros_vision/ros_vision.egg-info/SOURCES.txt'
+[1.061s] running build
+[1.062s] running build_py
+[1.062s] creating /home/avinaash/ros_cv/ros2/build/ros_vision/build
+[1.062s] creating /home/avinaash/ros_cv/ros2/build/ros_vision/build/lib
+[1.062s] creating /home/avinaash/ros_cv/ros2/build/ros_vision/build/lib/ros_vision
+[1.062s] copying ros_vision/__init__.py -> /home/avinaash/ros_cv/ros2/build/ros_vision/build/lib/ros_vision
+[1.063s] running install
+[1.063s] running install_lib
+[1.063s] creating /home/avinaash/ros_cv/ros2/install/ros_vision/lib/python3.8/site-packages/ros_vision
+[1.063s] copying /home/avinaash/ros_cv/ros2/build/ros_vision/build/lib/ros_vision/__init__.py -> /home/avinaash/ros_cv/ros2/install/ros_vision/lib/python3.8/site-packages/ros_vision
+[1.063s] byte-compiling /home/avinaash/ros_cv/ros2/install/ros_vision/lib/python3.8/site-packages/ros_vision/__init__.py to __init__.cpython-38.pyc
+[1.064s] running install_data
+[1.064s] creating /home/avinaash/ros_cv/ros2/install/ros_vision/share/ament_index
+[1.064s] creating /home/avinaash/ros_cv/ros2/install/ros_vision/share/ament_index/resource_index
+[1.064s] creating /home/avinaash/ros_cv/ros2/install/ros_vision/share/ament_index/resource_index/packages
+[1.064s] copying resource/ros_vision -> /home/avinaash/ros_cv/ros2/install/ros_vision/share/ament_index/resource_index/packages
+[1.065s] copying package.xml -> /home/avinaash/ros_cv/ros2/install/ros_vision/share/ros_vision
+[1.065s] running install_egg_info
+[1.065s] Copying ../../build/ros_vision/ros_vision.egg-info to /home/avinaash/ros_cv/ros2/install/ros_vision/lib/python3.8/site-packages/ros_vision-0.0.0-py3.8.egg-info
+[1.066s] running install_scripts
+[1.077s] writing list of installed files to '/home/avinaash/ros_cv/ros2/build/ros_vision/install.log'
+[1.111s] Invoked command in '/home/avinaash/ros_cv/ros2/src/ros_vision' returned '0': PYTHONPATH=/home/avinaash/ros_cv/ros2/build/ros_vision/prefix_override:/home/avinaash/ros_cv/ros2/install/ros_vision/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ros_vision build --build-base /home/avinaash/ros_cv/ros2/build/ros_vision/build install --record /home/avinaash/ros_cv/ros2/build/ros_vision/install.log --single-version-externally-managed install_data
