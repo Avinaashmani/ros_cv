@@ -1,4 +1,4 @@
-prefix=/home/avinaash/ros_cv/install
+prefix=/home/avinaash/ros_cv/ros1/install
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild

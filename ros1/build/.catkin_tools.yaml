@@ -1,6 +1,6 @@
-devel_space: /home/avinaash/ros_cv/devel
+devel_space: /home/avinaash/ros_cv/ros1/devel
 install: false
-install_space: /home/avinaash/ros_cv/install
+install_space: /home/avinaash/ros_cv/ros1/install
 profile: default
-source_space: /home/avinaash/ros_cv/src
-workspace: /home/avinaash/ros_cv
+source_space: /home/avinaash/ros_cv/ros1/src
+workspace: /home/avinaash/ros_cv/ros1

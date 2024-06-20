@@ -1,4 +1,4 @@
-prefix=/home/avinaash/ros_cv/devel/.private/cv_tf
+prefix=/home/avinaash/ros_cv/ros1/devel/.private/cv_tf
 
 Name: cv_tf
 Description: Description of cv_tf

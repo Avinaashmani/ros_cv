@@ -1,1 +1,1 @@
-/home/avinaash/ros_cv/devel/.private/catkin_tools_prebuild/setup.zsh
+/home/avinaash/ros_cv/ros1/devel/.private/catkin_tools_prebuild/setup.zsh

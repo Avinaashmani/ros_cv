@@ -67,14 +67,14 @@ set(cv_tf_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(cv_tf_SOURCE_PREFIX /home/avinaash/ros_cv/src/cv_tf)
-  set(cv_tf_DEVEL_PREFIX /home/avinaash/ros_cv/devel/.private/cv_tf)
+  set(cv_tf_SOURCE_PREFIX /home/avinaash/ros_cv/ros1/src/cv_tf)
+  set(cv_tf_DEVEL_PREFIX /home/avinaash/ros_cv/ros1/devel/.private/cv_tf)
   set(cv_tf_INSTALL_PREFIX "")
   set(cv_tf_PREFIX ${cv_tf_DEVEL_PREFIX})
 else()
   set(cv_tf_SOURCE_PREFIX "")
   set(cv_tf_DEVEL_PREFIX "")
-  set(cv_tf_INSTALL_PREFIX /home/avinaash/ros_cv/install)
+  set(cv_tf_INSTALL_PREFIX /home/avinaash/ros_cv/ros1/install)
   set(cv_tf_PREFIX ${cv_tf_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/avinaash/ros_cv/install/lib;/home/avinaash/ros_cv/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/avinaash/ros_cv/ros1/install/lib;/home/avinaash/ros_cv/ros1/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

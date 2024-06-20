@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/avinaash/ros_cv/devel/.private/cv_tf:$CMAKE_PREFIX_PATH"
-export PWD='/home/avinaash/ros_cv/build/cv_tf'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/avinaash/ros_cv/devel/.private/cv_tf/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/avinaash/ros_cv/src/cv_tf:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/avinaash/ros_cv/ros1/devel/.private/cv_tf:$CMAKE_PREFIX_PATH"
+export PWD='/home/avinaash/ros_cv/ros1/build/cv_tf'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/avinaash/ros_cv/ros1/devel/.private/cv_tf/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/avinaash/ros_cv/ros1/src/cv_tf:$ROS_PACKAGE_PATH"
